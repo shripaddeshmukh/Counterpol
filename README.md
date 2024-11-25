@@ -1,5 +1,4 @@
-This repository contains the code for the paper _"Counterfactual Explanation Policies in RL"_ by Shripad Vilasrao Deshmukh, Srivatsan R, Supriti Vijay, Jayakumar Subramanian and Chirag Agarwal. The paper is available on arXiv at [https://arxiv.org/abs/2307.13192](https://arxiv.org/abs/2307.13192).
-
+This repository contains the code for the paper _"Counterfactual Explanation Policies in RL"_ by Shripad Vilasrao Deshmukh, Srivatsan R, Supriti Vijay, Jayakumar Subramanian and Chirag Agarwal. The paper is available on arXiv at [https://arxiv.org/abs/2307.13192](https://arxiv.org/abs/2307.13192). If you need any help or have any questions, please feel free to reach out to Shripad on this email ID: svdeshmukh@umass.edu
 
 ## Repository Organization
 The repository is organized as follows:
